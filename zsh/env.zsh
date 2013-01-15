@@ -33,6 +33,8 @@ export SUBLHOME="${HOME}/Library/Application Support/Sublime Text 2/Packages/Use
 # Get Z working
 . "${HOME}/.dotfiles/z/z.sh"
 
+export VIMCLOJURE_SERVER_JAR="$HOME/.bin/server-2.3.6.jar"
+
 ##########
 # History
 ##########
